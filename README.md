@@ -83,3 +83,11 @@ Recursos
 + https://medium.com/@jameskelsey/react-with-feathers-js-a-tutorial-for-newbies-by-a-newbie-d2725e7cad73
 
 + 
+
+
+ npm install --save-dev antd
+
+
+npm install  babel-plugin-import --save-dev
+
+$ npm install style-loader  autoprefixer  css-loader postcss-loader  --save-dev 
